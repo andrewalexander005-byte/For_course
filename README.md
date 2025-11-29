@@ -1,5 +1,4 @@
 # For_course
-This used for the assessment of a Coursera course
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
